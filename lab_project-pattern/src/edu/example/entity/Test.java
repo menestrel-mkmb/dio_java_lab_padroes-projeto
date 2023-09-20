@@ -1,5 +1,6 @@
 package edu.example.entity;
 
+import edu.example.facade.Facade;
 import edu.example.singleton.SingletonEager;
 import edu.example.singleton.SingletonLazy;
 import edu.example.singleton.SingletonLazyHolder;
@@ -49,5 +50,11 @@ public class Test {
         robo.mover();
         robo.mover();
 
+        /*
+        * Modo Facade para uso de recurso externo
+        * */
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Michael", "123");
     }
 }
