@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,6 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/michael/projects/dio_java_lab_padroes-projeto/lab_project-pattern",
     "onboarding.tips.debug.path": "/home/michael/projects/pad-proj-singleton/src/Main.java"
   }
 }]]></component>
